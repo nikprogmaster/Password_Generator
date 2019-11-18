@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:minLevel="0" android:maxLevel="999"/>
+    <item android:minLevel="1000" android:maxLevel="1999"/>
+    <item android:minLevel="2000" android:maxLevel="2999"/>
+    <item android:minLevel="3000" android:maxLevel="3999"/>
+    <item android:minLevel="4000" android:maxLevel="4999"/>
+    <item android:minLevel="5000" android:maxLevel="5999"/>
+    <item android:minLevel="6000" android:maxLevel="6999"/>
+    <item android:minLevel="7000" android:maxLevel="7999"/>
+    <item android:minLevel="8000" android:maxLevel="8999"/>
+    <item android:minLevel="9000" android:maxLevel="10000"/>
+</level-list>
